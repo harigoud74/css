@@ -84,8 +84,6 @@ body{
 }
 /* box-4 */
 .nav-lang{
-    /* background-color:#f3f9f9 ; */
-    /* height: 58px; */
     display: flex;
 }
 .nav-lang-img{
@@ -99,7 +97,7 @@ body{
 }
 /* box-5 */
 .nav-sign{
-    color: #ffffff;
+    color:white;
 }
 .sign1{
     font-size: 0.7rem;
